@@ -1,4 +1,4 @@
-//SIMPLE CALCULATOR
+//SIMPLE CALCULATOR THAT PERFORMS BASIC FUNCTIONS
 #include<iostream>
 using namespace std;
 int main(){
